@@ -95,3 +95,7 @@ If you're interested in other examples of open source software, you might be int
 [![open source software logo](../images/oss.png){width=75%}](https://www.techradar.com/uk/best/best-open-source-software)
 
 </center>
+
+## Improve this Workshop
+
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/24_open_source). 
