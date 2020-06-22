@@ -1,0 +1,91 @@
+---
+title: "Open Source Software"
+author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+date: ""
+output: 
+ html_document:
+  theme: flatly
+  toc: true
+  toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview
+
+Open source software is software that is licensed to be free to modify, remix, and improve. It is usually free to use, and is centred on the principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. The move towards open source began in the early 1980s partly because of a [printer](https://medium.com/@amogh/the-story-of-open-source-so-far-bfcb685d85a4) and developed further that decade in the form of the [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) established by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman). In the late 1990s, the [Open Source Initiative](https://opensource.org) was launched to raise awareness and adoption of open source software, and build bridges between open source communities of practice. 
+
+Open source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open source software.
+
+There is a huge amount of open source software available - some of which you will find useful both in the context of this unit, but also in the context of how you study, and in how you conduct your research.
+
+# Statistical and Scientific Computing
+## R and RStudio Desktop
+It goes without saying that R and RStudio Desktop are the two most obvious examples of open source software that are relevant to this course. In terms of other open source languages used for data analysis and statistical modelling, you might also be interested in Python and Julia. 
+
+<center>
+
+[![R logo](../images/r_logo.jpeg){width=15%}](https://www.r-project.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![RStudio logo](../images/RStudio-Logo-Flat.png){width=25%}](https://www.r-project.org)
+</center>
+
+## Python
+While R tends to be the go-to language for people who are interested in data wrangling, data visualisation, and statistical modelling, Python is arguably the 'better' language in the sense it is more general purpose. Python is used widely by the machine learning community (to name just one example). 
+
+<center>
+
+[![Python logo](../images/python-logo-master-v3-TM.png){width=25%}](https://www.python.org)
+</center>
+
+## Octave
+You may have heard of - or even used - MATLAB for numerical computing. There is an open source equivalent, called [GNU Octave](https://www.gnu.org/software/octave/), that you may be interested in checking out.
+
+<center>
+
+[![GNU Octave logo](../images/gnuoctave.jpg){width=25%}](https://www.gnu.org/software/octave/)
+</center>
+
+# Document Creation
+Up until this time you've probably mainly used Microsoft Word for writing documents. [LibreOffice](https://www.libreoffice.org) is a great open source equivalent to the Microsoft Office suite and offers a huge range of applications for document writing, working with spreadsheets, and the creation of presentations.
+
+<center>
+
+[![Libre Office logo](../images/LibreOffice-6.4.png){width=25%}](https://www.libreoffice.org)
+
+</center>
+
+If you're interested in writing using [Markdown](https://www.markdownguide.org) (which is really easy to get to grips with), you might be interested in using [HackMD](https://opensource.com/article/19/7/enable-collaboration-hackmd). HackMD is a Markdown editor that critically allows you to write collaborative documents and presentations with others.
+
+<center>
+
+[![!HackMD logo](../images/hack_md.png){width=25%}](https://opensource.com/article/19/7/enable-collaboration-hackmd)
+</center>
+
+# Building Experiments
+[PsychoPy](https://www.psychopy.org) offers a great open source solution to build experiments to collect human data, and via the companion hosting site [Pavlovia](https://pavlovia.org) provides an easy to use method for running the PsychoPy experiments online. PsychoPy has been around for a number of years and has lots of pre-built experiment templates that you can adapt as needs be. There is a great reference that describes the PsychoPy environment [here](https://link.springer.com/article/10.3758/s13428-018-01193-y).
+
+<center>
+
+[![PsychPy logo](../images/psychopyLogoOnlineStrap_h480.png){width=25%}](https://www.psychopy.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pavlovia logo](../images/pavlovia.png){width=25%}](https://pavlovia.org)
+</center>
+
+# Linux
+One of the most widely used pieces of open source software is the Linux operating system. Rather than running your computer on Windows, or Mac OS, you could choose to run it using [Linux](https://www.linux.org). Linux runs the majority of the internet servers in world is becoming increasingly popular in academic settings. Linux refers to a bunch of open source Unix-like operating systems. It was developed and released by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) in 1991. 
+
+<center>
+
+[![Linux logo](../images/linux.jpg){width=25%}](https://www.linux.org)
+</center>
+
+Some of the most popular distributions of Linux are [Ubuntu](https://ubuntu.com) (which I have on one of my Macs), [Fedora](https://getfedora.org/en/workstation/download/), and [Debian](https://www.debian.org). If you really want to get into the computational side of research, it's important to start discovering the world of Linux.
+
+<center>
+
+[![Ubuntu logo](../images/ubuntu-logo112.png){width=20%}](https://ubuntu.com)[![Fedora logo](../images/Fedora-Logo.jpg){width=25%}]((https://getfedora.org/en/workstation/download/))[![Debian logo](../images/openlogo.ps.jpg){width=15%}](https://www.debian.org)
+</center>
+
+# More Reading
+If you're interested in other examples of open source software, you might be interested in having a look at this list of open source alternatives on the [Tech Radar site](https://www.techradar.com/uk/best/best-open-source-software).
+
+
