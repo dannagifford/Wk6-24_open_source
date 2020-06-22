@@ -90,4 +90,8 @@ Some of the most popular distributions of Linux are [Ubuntu](https://ubuntu.com)
 # More Reading
 If you're interested in other examples of open source software, you might be interested in having a look at this list of open source alternatives on the [Tech Radar site](https://www.techradar.com/uk/best/best-open-source-software).
 
+<center>
 
+[![open source software logo](../images/oss.png){width=75%}](https://www.techradar.com/uk/best/best-open-source-software)
+
+</center>
