@@ -23,6 +23,18 @@ Open source software is made by many people and distributed under an OSD-complia
 
 There is a huge amount of open source software available - some of which you will find useful both in the context of this unit, but also in the context of how you study, and in how you conduct your research.
 
+Below is an interesting video discussing the rise of Open Source Software.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/SpeDK1TPbew" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
 # Statistical and Scientific Computing
 ## R and RStudio Desktop
 It goes without saying that R and RStudio Desktop are the two most obvious examples of open source software that are relevant to this course. In terms of other open source languages used for data analysis and statistical modelling, you might also be interested in Python and Julia. 
