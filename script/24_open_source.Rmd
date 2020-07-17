@@ -92,7 +92,7 @@ One of the most widely used pieces of open source software is the Linux operatin
 [![Linux logo](../images/linux.jpg){width=25%}](https://www.linux.org)
 </center>
 
-Some of the most popular distributions of Linux are [Ubuntu](https://ubuntu.com) (which I have on one of my Macs), [Fedora](https://getfedora.org/en/workstation/download/), and [Debian](https://www.debian.org). If you really want to get into the computational side of research, it's important to start discovering the world of Linux.
+Some of the most popular distributions of Linux are [Ubuntu](https://ubuntu.com) (which I currently use), [Fedora](https://getfedora.org/en/workstation/download/), and [Debian](https://www.debian.org). If you really want to get into the computational side of research, it's important to discover the world of Linux.
 
 <center>
 
